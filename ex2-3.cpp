@@ -5,4 +5,5 @@ int main(void) {
      char a = 'b';
      printf(" hello azax ");
      printf(" my height is %d m %d cm \n",height_m,height_cm);
+     printf(" hello %c \n",a);
 }
